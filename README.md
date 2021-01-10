@@ -1,5 +1,6 @@
 # Epidemic-Modelling
 CS-E5740 Complex Networks Course Project
+Aalto University
 
 ## Developers
 Sheetal Borar
