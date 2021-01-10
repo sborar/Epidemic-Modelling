@@ -1,5 +1,5 @@
 # Epidemic-Modelling
-CS-E5740 Complex Networks Course Project
+CS-E5740 Complex Networks Course Project<\br>
 Aalto University
 
 ## Developers
